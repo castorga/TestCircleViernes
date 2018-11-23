@@ -12,4 +12,7 @@ public class AppTest {
 		//fail("Not yet implemented");
 	}
 
+	void test2() {
+		assertEquals('a', 65);
+	}
 }
